@@ -3,7 +3,7 @@ import networkx as nx
 
 
 def build_attack_graph(events):
-    graph = nx.DiGraph()
+    graph = nx.DiGrargeo[gre[gr[lph()
 
     # Add each event as a node.
     for event in events:
