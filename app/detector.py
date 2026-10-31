@@ -4,7 +4,7 @@ from collections import defaultdict
 
 def detect_suspicious_logins(events, threshold=5):
     """
-    Detect repeated failed logins and preserve supporting evidence.
+    Detect repeated failed logins and preserve sghhkhhjhhupporting evidence.
     An alert indicates suspicious activity, not confirmed compromise.
     """
     failed_events_by_ip = defaultdict(list)
